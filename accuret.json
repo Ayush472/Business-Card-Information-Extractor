@@ -1,0 +1,112 @@
+[
+    {
+      "name": "Shirish R. Pandit",
+      "title": "Sr.Vice President - Projects",
+      "company": "DMCC Speciality Chemicals Ltd",
+      "phone": ["+917768819800"],
+      "email": "spandit@dmcc.com",
+      "website": null,
+      "address": null,
+      "other": [],
+      "card_index": 0
+    },
+    {
+      "name": "Piyush Patel",
+      "title": "Director",
+      "company": "ROTO TECH ENGINEERING SYSTEMs",
+      "phone": ["+91 90160 75167"],
+      "email": null,
+      "website": null,
+      "address": null,
+      "other": ["Zero Liquid Discharge Solutions", "We Serve, Technical Expertise...... From Concept to Commissioning......"],
+      "card_index": 1
+    },
+    {
+      "name": "Mohan Pawar",
+      "title": "General Manager-Procurement",
+      "company": "DMCC Speciality Chemicals Ltd",
+      "phone": ["+919920229024"],
+      "email": "mpawar@dmcc.com",
+      "website": null,
+      "address": null,
+      "other": [],
+      "card_index": 2
+    },
+    {
+      "name": "Mandar Gaikwad",
+      "title": "Manager-Boron & Bulk Chemical Sales",
+      "company": "DMCC Speciality Chemicals Ltd",
+      "phone": ["+919819826763"],
+      "email": "mgaikwad@dmcc.com",
+      "website": null,
+      "address": null,
+      "other": [],
+      "card_index": 3
+    },
+    {
+      "name": "Pankaj Gauri",
+      "title": "Sr. General Manager - Marketing PVDF",
+      "company": "Gujarat Fluorochemicals Limited",
+      "phone": ["+91 97174 99778", "+91 120 6149600", "+91-0120-6149600", "+91-120-6149610"],
+      "email": "pankaj.gauri@gfl.co.in",
+      "website": "www.gfl.co.in",
+      "address": "INOXGFL Towers, Plot No.17, Sector -16A, Noida - 201301 (UP) India",
+      "other": ["An INOXGFL Group Company", "VALUE THROUGH GREEN CHEMISTRY"],
+      "card_index": 4
+    },
+    {
+      "name": "Gaurav Manvar",
+      "title": "Senior Manager Techno-Commercial, Proposal & Cost Estimation",
+      "company": "Mundra Petrochem Limited",
+      "phone": ["+91 99099 28254", "+91 79 2555 0117"],
+      "email": "gaurav.manvar@adani.com",
+      "website": "www.adani.com",
+      "address": "Commerce House 4, Anand Nagar Road, Prahladnagar, Ahmedabad 380 015, Gujarat, India",
+      "other": [],
+      "card_index": 5
+    },
+    {
+      "name": "Pankaj Patel",
+      "title": "General Manager-Operations",
+      "company": "GSP Crop Science Private Limited",
+      "phone": ["+91-79-26466580", "26449936", "61915111", "+91-9687652938"],
+      "email": "pankajpatel@gspcrop.in",
+      "website": "www.gspcrop.in",
+      "address": "HO : 403, Lalita Complex, Opp. HDFC Bank, Mithakhali six Road, Navrangpura, Ahmedabad-380 009. Gujarat. INDIA.",
+      "other": ["ISO 9001:2008, 14001:2004, OHSAS 18001:2007"],
+      "card_index": 6
+    },
+    {
+      "name": "Kapil Savaliya",
+      "title": null,
+      "company": "Livmore Life Sciences Pvt. Ltd.",
+      "phone": ["+91 8238521555", "+91 7990987737"],
+      "email": "livmorelifesciences@gmail.com",
+      "website": null,
+      "address": "Plant : Survey No. 424, 431, Vill. Ganpatpura, Ta. Karjan, Dist. Vadodara",
+      "other": ["Dr. Hitesh Jagani +91 9825289287"],
+      "card_index": 7
+    },
+    {
+      "name": "Bhupathi. K",
+      "title": "Unit Head",
+      "company": null,
+      "phone": ["+91 94995 59282"],
+      "email": "bhupathi.k@archeanchemicals.com",
+      "website": "archeanchemicals.com",
+      "address": null,
+      "other": [],
+      "card_index": 8
+    },
+    {
+      "name": "Rampi Patel",
+      "title": "Asst. Manager - Engineering Purchase",
+      "company": "Croda India Company Pvt Ltd",
+      "phone": ["+91 88790 34724", "+91 (22) 3094 8480", "+91(22) 3094 8400 / 500 / 600"],
+      "email": "ramji.patel@croda.com",
+      "website": null,
+      "address": "Plot No 1/1 Part, TTC Industrial Area, Thane Belapur Road, Koparkhairne, Navi Mumbai 400 710, Maharashtra, India",
+      "other": ["Smart Science to Improve Lives™"],
+      "card_index": 9
+    }
+  ]
